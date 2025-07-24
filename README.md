@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mubrra Asghar</h1>
 <h3 align="center">Full Stack Engineer | MERN Specialist | Passionate about Building Scalable Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubrraasghar&label=Profile%20views&color=0e75b6&style=flat" alt="mubrraasghar" /> </p>
+<H1 ><br></H1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubrraasghar" alt="mubrraasghar" /></a> </p>
 
 - 🔭 I’m currently working on **Django Restaurant Management System**
 
